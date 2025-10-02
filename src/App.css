@@ -1,0 +1,14 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App > * {
+  flex-shrink: 0;
+}
+
+.App > main {
+  flex-grow: 1;
+}
+
