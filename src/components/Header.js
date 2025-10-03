@@ -7,8 +7,8 @@ function Header() {
       <div className="container">
         <div className="header-content">
           <div className="logo">
-            <h1>Your Name</h1>
-            <p>Frontend Developer</p>
+            <h1>Batya Kehrer</h1>
+            <p>Software Engineer</p>
           </div>
           <nav className="nav">
             <ul>

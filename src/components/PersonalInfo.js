@@ -8,40 +8,37 @@ function PersonalInfo() {
         <div className="personal-content">
           <div className="profile-section">
             <div className="profile-image">
-              <img src="/KK2025-93.jpg" alt="Profile" />
+              <img src="/KK2025-93.png" alt="Profile" />
             </div>
             <div className="profile-details">
-              <h1>Your Name</h1>
-              <h2>Frontend Developer</h2>
+              <h1>Batya Kehrer</h1>
+              <h2>Software Engineer</h2>
               <p className="summary">
-                Passionate frontend developer with expertise in React, JavaScript, and modern web technologies. 
-                Dedicated to creating beautiful, user-friendly web experiences.
+              I am a Software Engineer with 5+ years of experience in language like C++, C#, Python, SQL, 
+              React, Angular, and more. I have experience in industry like military, medical, renewable energy, 
+              and education. I am a self motivated developer and capable team leader.
               </p>
             </div>
           </div>
           <div className="contact-info">
             <div className="contact-item">
               <strong>Email:</strong>
-              <span>your.email@example.com</span>
-            </div>
-            <div className="contact-item">
-              <strong>Phone:</strong>
-              <span>+1 (555) 123-4567</span>
+              <span>batyakehrer@gmail.com</span>
             </div>
             <div className="contact-item">
               <strong>Location:</strong>
-              <span>Your City, Country</span>
+              <span>Orem, Utah</span>
             </div>
             <div className="contact-item">
               <strong>LinkedIn:</strong>
-              <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
-                linkedin.com/in/yourprofile
+              <a href="https://www.linkedin.com/in/batya-kehrer/" target="_blank" rel="noopener noreferrer">
+                linkedin.com/in/batya-kehrer/
               </a>
             </div>
             <div className="contact-item">
               <strong>GitHub:</strong>
-              <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
-                github.com/yourusername
+              <a href="https://github.com/BatyaKehrer" target="_blank" rel="noopener noreferrer">
+                github.com/BatyaKehrer
               </a>
             </div>
           </div>
